@@ -12,6 +12,8 @@ It will :
 - Use spotdl to then download the album (which will actually be downloaded from YouTube Music).
 
 Usage : ./dl_album.py "Artist - Album name"
+
+Requirements : spotdl and googlesearch modules
 """
 
 
