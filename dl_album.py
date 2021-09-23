@@ -9,7 +9,9 @@ from os import mkdir, chdir
 It will :
 - Create a directory for the album and move into it.
 - Perform a google search to get a Spotify album url from the album name.
-- Use spotdl to then download the album (which will actually be downloaded from YouTube Music.
+- Use spotdl to then download the album (which will actually be downloaded from YouTube Music).
+
+Usage : ./dl_album.py "Artist - Album name"
 """
 
 
